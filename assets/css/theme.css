@@ -5,6 +5,7 @@
 body {
 	overflow-x:hidden;
 	padding-top:69.75px;
+	font-family: Source Sans Pro, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 .site-content {
 	margin-top:30px;
