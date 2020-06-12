@@ -839,3 +839,21 @@ div.a2a_full_footer {display:none;}
 .sticky-top-offset {
   top: 100px;
 }
+
+@media (min-width:1024px) {
+  .share ul li {
+    display: block;
+  }
+}
+
+.share,
+.share a {
+  color: rgba(0, 0, 0, .44);
+  fill: rgba(0, 0, 0, .44);
+}
+
+@media (max-width: 768px) {
+  .share {
+    margin-top: 30px;
+  }
+}
